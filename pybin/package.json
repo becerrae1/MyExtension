@@ -1,0 +1,20 @@
+{
+    "name": "pybin",
+    "displayName": "Pybin",
+    "description": "Example Python code to help your remember what you want to implement instead of searching for what you don't fully grasp! All at your fingertips :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

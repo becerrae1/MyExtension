@@ -19,6 +19,18 @@
             "#You can see how the name placeholder is taking the value of Spongebob and being represented with name",
             "#Input any names you want besides the equal opeator to change the output of the printed statement!",
         ],
-        "description": "Creates Hello World Example Template"
+        "description": "Creates Variable example code template"
+    }
+}
+{
+    "Example Code Starter Template": {
+        "prefix": "!py3",
+        "body": [
+            "nameYours = input(\"Enter your name!\")",
+            "print(nameYours + \"and Spongebob are going to stop by the Krusty Krab to grab some burgers and hit Jelly Fish Fields!\")",
+            "#This is an example of how your input can be changed as part of the program instead of changign it manually",
+            "#Try putting any other name at the start ofthe program, what happens when you put numbers?",
+        ],
+        "description": "Creates Input Variable example code teamplate"
     }
 }

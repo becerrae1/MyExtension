@@ -5,6 +5,8 @@ Teaching python for me has been an amazing experience and I had the privelege to
 previous job. The number one issue for me was getting them to relate to python and understand the syntax.
 Memory for them was difficult and remembering simple key strokes was the biggest downfall because the kids understood what I was doing it was just the repetition of keying in the right strokes was slowing down their learning.
 
+
+Also using a familiar face like Spongebob has helped in the past when I want to use examples for code in my previous classes and the kids love Spongebob!
 ## Features
 
 

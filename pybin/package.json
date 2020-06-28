@@ -2,7 +2,7 @@
     "name": "pybin",
     "displayName": "Pybin",
     "description": "Example Python code to help your remember what you want to implement instead of searching for what you don't fully grasp! All at your fingertips :)",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -13,6 +13,14 @@
         "snippets": [
             {
                 "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]

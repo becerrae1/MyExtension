@@ -1,1 +1,8 @@
-{}
+{
+    "Example Code Starter Template"
+        "prefix": "!py1",
+        "body": [
+            "print(\"Hello World!\")"
+            
+        ]
+}

@@ -3,13 +3,13 @@
         "prefix": "!py1",
         "body": [
             "print(\"Hello World!\")",
-            "#Print is a function that displays any message you want to the screen! Try filling inside the parenthesis whatever you want to display."
+            "#Print is a function that displays any message you want to the screen!", 
+            "#Try filling inside the parenthesis whatever you want to display."
         ],
         "description": "Creates Hello World Example Template"
-    }
-}
-{
-    "Example Code Starter Template": {
+    },
+
+    "Example Variable Code Starter Template": {
         "prefix": "!py2",
         "body": [
             "name = \"Spongebob\"",
@@ -20,22 +20,21 @@
             "#Input any names you want besides the equal opeator to change the output of the printed statement!",
         ],
         "description": "Creates Variable example code template"
-    }
-}
-{
-    "Example Code Starter Template": {
+    },
+    
+    "Example Input Code Starter Template": {
         "prefix": "!py3",
         "body": [
             "nameYours = input(\"Enter your name!\")",
             "print(nameYours + \"and Spongebob are going to stop by the Krusty Krab to grab some burgers and hit Jelly Fish Fields!\")",
             "#This is an example of how your input can be changed as part of the program instead of changign it manually",
             "#Try putting any other name at the start ofthe program, what happens when you put numbers?",
-        ],
-        "description": "Creates Input Variable example code teamplate"
-    }
-}
-{
-    "Example Code Starter Template": {
+         ],
+         "description": "Creates Input Variable example code teamplate"
+        
+    },
+
+    "Example Calculator Code Starter Template": {
         "prefix": "!py4",
         "body": [
             "num1 = input(\"Enter a number: \")",
@@ -45,17 +44,16 @@
 
         ],
         "description": "This is your first calculator program that is easily modular and play around with!"
-    }
-}
-{
-    "Example Code Starter Template": {
+
+    },
+
+    "Example Function Code Starter Template": {
         "prefix": "!py5",
         "body": [
             "def greet(): ",
-                "print(\"Hello user!\")",
-            "greet()",
-            "print(result)"
+            "\tprint(\"Hello user!\")",
+            "greet()"
         ],
         "description": "This is an example of a function! Try replacing what is being printed out!"
     }
-}
+}    

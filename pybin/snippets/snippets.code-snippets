@@ -47,3 +47,15 @@
         "description": "This is your first calculator program that is easily modular and play around with!"
     }
 }
+{
+    "Example Code Starter Template": {
+        "prefix": "!py5",
+        "body": [
+            "def greet(): ",
+                "print(\"Hello user!\")",
+            "greet()",
+            "print(result)"
+        ],
+        "description": "This is an example of a function! Try replacing what is being printed out!"
+    }
+}

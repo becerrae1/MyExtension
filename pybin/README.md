@@ -1,6 +1,9 @@
-# pybin README
+# Pybin README
 
-This is the README for your extension "pybin". After writing up a brief description, we recommend including the following sections.
+Pybin is used for introductory programmers especially those in elementary school aged children. 
+Teaching python for me has been an amazing experience and I had the privelege to teach them at my 
+previous job. The number one issue for me was getting them to relate to python and understand the syntax.
+Memory for them was difficult and remembering simple key strokes was the biggest downfall because the kids understood what I was doing it was just the repetition of keying in the right strokes was slowing down their learning.
 
 ## Features
 
@@ -14,7 +17,7 @@ For example if there is an image subfolder under your extension project workspac
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Only need latest version of Python to be supported with this extension.
 
 ## Extension Settings
 
@@ -27,25 +30,21 @@ This extension contributes the following settings:
 * `myExtension.enable`: enable/disable this extension
 * `myExtension.thing`: set to `blah` to do something
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Users can appreciate the debut release of Pybins with 5 commonly used snippets for new learner of Python.
 
 ### 1.0.0
 
-Initial release of ...
+Initial release of Pybin
 
 ### 1.0.1
 
-Fixed issue #.
+Updated snippets and formatting.
 
 ### 1.1.0
 
-Added features X, Y, and Z.
 
 -----------------------------------------------------------------------------------------------------------
 

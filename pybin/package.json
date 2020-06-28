@@ -4,7 +4,11 @@
     "description": "Install this extension to have a familiar face help you traverse your new venture with live code examples from Spongebob and the Crew!",
     "version": "1.0.0",
     "publisher": "Ethan",
-    "icon": "SpongebobFunnyFace.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/becerrae1/something"
+    },
+    "icon": "icon.jpg",
     "engines": {
         "vscode": "^1.46.0"
     },

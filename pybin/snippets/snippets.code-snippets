@@ -14,7 +14,7 @@
         "body": [
             "name = \"Spongebob\"",
             "neighbor = \"Squidward\"",
-            "print(name + \"lives next to a grumpy octupus named\" + neighbor)",
+            "print(name + \" lives next to a grumpy octupus named \" + neighbor)",
             "#This is an example of variables in action",
             "#You can see how the name placeholder is taking the value of Spongebob and being represented with name",
             "#Input any names you want besides the equal opeator to change the output of the printed statement!",
@@ -25,8 +25,8 @@
     "Example Input Code Starter Template": {
         "prefix": "!py3",
         "body": [
-            "nameYours = input(\"Enter your name!\")",
-            "print(nameYours + \"and Spongebob are going to stop by the Krusty Krab to grab some burgers and hit Jelly Fish Fields!\")",
+            "nameYours = input(\"Enter your name! \")",
+            "print(nameYours + \" and Spongebob are going to stop by the Krusty Krab to grab some burgers and hit Jelly Fish Fields!\")",
             "#This is an example of how your input can be changed as part of the program instead of changign it manually",
             "#Try putting any other name at the start ofthe program, what happens when you put numbers?",
          ],
@@ -39,7 +39,7 @@
         "body": [
             "num1 = input(\"Enter a number: \")",
             "num2 = input(\"Enter another number: \")",
-            "result = num1 + num2",
+            "result = int(num1) + int(num2)",
             "print(result)"
 
         ],

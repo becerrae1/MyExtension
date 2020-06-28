@@ -34,3 +34,16 @@
         "description": "Creates Input Variable example code teamplate"
     }
 }
+{
+    "Example Code Starter Template": {
+        "prefix": "!py4",
+        "body": [
+            "num1 = input(\"Enter a number: \")",
+            "num2 = input(\"Enter another number: \")",
+            "result = num1 + num2",
+            "print(result)"
+
+        ],
+        "description": "This is your first calculator program that is easily modular and play around with!"
+    }
+}

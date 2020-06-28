@@ -1,8 +1,24 @@
 {
-    "Example Code Starter Template"
+    "Example Code Starter Template": {
         "prefix": "!py1",
         "body": [
-            "print(\"Hello World!\")"
-            
-        ]
+            "print(\"Hello World!\")",
+            "#Print is a function that displays any message you want to the screen! Try filling inside the parenthesis whatever you want to display."
+        ],
+        "description": "Creates Hello World Example Template"
+    }
+}
+{
+    "Example Code Starter Template": {
+        "prefix": "!py2",
+        "body": [
+            "name = \"Spongebob\"",
+            "neighbor = \"Squidward\"",
+            "print(name + \"lives next to a grumpy octupus named\" + neighbor)",
+            "#This is an example of variables in action",
+            "#You can see how the name placeholder is taking the value of Spongebob and being represented with name",
+            "#Input any names you want besides the equal opeator to change the output of the printed statement!",
+        ],
+        "description": "Creates Hello World Example Template"
+    }
 }

@@ -1,8 +1,10 @@
 {
     "name": "pybin",
     "displayName": "Pybin",
-    "description": "Example Python code to help your remember what you want to implement instead of searching for what you don't fully grasp! All at your fingertips :)",
+    "description": "Install this extension to have a familiar face help you traverse your new venture with live code examples from Spongebob and the Crew!",
     "version": "1.0.0",
+    "publisher": "Ethan",
+    "icon": "SpongebobFunnyFace.jpg",
     "engines": {
         "vscode": "^1.46.0"
     },
